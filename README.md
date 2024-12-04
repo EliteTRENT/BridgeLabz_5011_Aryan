@@ -9,3 +9,6 @@ Topics Covered: Solved some random questions covering loops, conditional stateme
 Date:- 3rd December, 2024
 Topics Covered: Solved some practice problems covering File I/O in ruby and along with basic regex functions.
 
+Date:- 4th December, 2024
+Topics Covered: Solved problems related to Arrays data structure.
+
