@@ -12,3 +12,6 @@ Topics Covered: Solved some practice problems covering File I/O in ruby and alon
 Date:- 4th December, 2024
 Topics Covered: Solved problems related to Arrays data structure.
 
+Date:- 5th December, 2024
+Topics Covered: Solved assignment of Employee Wage problem.
+
