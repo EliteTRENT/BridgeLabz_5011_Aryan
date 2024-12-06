@@ -15,3 +15,6 @@ Topics Covered: Solved problems related to Arrays data structure.
 Date:- 5th December, 2024
 Topics Covered: Solved assignment of Employee Wage problem.
 
+Date:- 6th December, 2024
+Topics Covered: Solved problems covering strings and error handling in ruby.
+
