@@ -18,3 +18,6 @@ Topics Covered: Solved assignment of Employee Wage problem.
 Date:- 6th December, 2024
 Topics Covered: Solved problems covering strings and error handling in ruby.
 
+Date:- 9th December, 2024
+Topics Covered: Solved problems covering basic concepts of OOPs in ruby.
+
